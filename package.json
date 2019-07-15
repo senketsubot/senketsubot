@@ -1,0 +1,10 @@
+{
+  "name": "one-star-goku",
+  "version": "1.0.0",
+  "description": "testerbot for senketsu",
+  "main": "bot.js",
+  "author": "Aaron Amartuvshin",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
